@@ -1,0 +1,663 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: century Gothic;
+}
+
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(../goa.jpg); 
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+ul{
+	float: right;
+	list-style-type: none;
+margin-top: 25px;
+
+
+}
+ul li{
+	display: inline-block;
+
+}
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+
+}
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+ul{
+	float: right;
+	list-style-type: none;
+margin-top: 25px;
+
+
+}
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+.logo img{
+	float: left;
+	width: 150px;
+	height: auto;
+
+}
+.main{
+	max-width: 1200px;
+	
+}
+.title{
+	position: absolute;
+	top: 30%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.title h1{
+	color: #fff;
+	font-size: 45px;
+	position: absolute;
+	top: 10%;
+	left: 45%;
+
+
+}
+h2{
+	color: #fff;
+	font-size: 45px;
+	position: absolute;
+	
+	top: 40%;
+	left: 10%;
+	transform: translate(-50%,-50%);
+	
+}
+h3{
+	color: #fff;
+	font-size: 35px;
+	position: absolute;
+	
+	top: 55%;
+	left: 59%;
+	transform: translate(-50%,-50%);
+	
+}
+
+
+h4{
+	color: #fff;
+	font-size: 25px;
+	position: absolute;
+	
+	top: 75%;
+	left: 60%;
+	transform: translate(-50%,-50%);
+	
+}
+
+
+h5{
+	color: #000;
+	font-size: 30px;
+	position: absolute;
+	
+	top: 120%;
+	left: 25%;
+	transform: translate(-50%,-50%);
+	
+}
+h6{
+	color: #000;
+	font-size: 25px;
+	position: absolute;
+	
+	top: 135%;
+	left: 35%;
+	transform: translate(-50%,-50%);
+	
+}
+h7{
+	color: #000;
+	font-size: 30px;
+	position: absolute;
+	
+	top: 180%;
+	left: 65%;
+	transform: translate(-50%,-50%);
+	
+}
+h8{
+	color: #000;
+	font-size: 25px;
+	position: absolute;
+	
+	top: 215%;
+	left: 65%;
+	transform: translate(-50%,-50%);
+	
+}
+h9{
+	color: #000;
+	font-size: 30px;
+	position: absolute;
+	
+	top: 265%;
+	left: 20%;
+	transform: translate(-50%,-50%);
+	
+}
+h10{
+	color: #000;
+	font-size: 25px;
+	position: absolute;
+	
+	top: 285%;
+	left:35%;
+	transform: translate(-50%,-50%);
+	
+}
+h11{
+	color: #000;
+	font-size: 70px;
+	position: absolute;
+	
+	top: 310%;
+	left: 20%;
+	transform: translate(-50%,-50%);
+	
+}
+h12{
+	color: #000;
+	font-size: 30px;
+	position: absolute;
+	
+	top: 325%;
+	left: 20%;
+	transform: translate(-50%,-50%);
+	
+}
+h13{
+	color: #000;
+	font-size: 20px;
+	position: absolute;
+	
+	top: 340%;
+	left:35%;
+	transform: translate(-50%,-50%);
+	
+}
+h14{
+	color: #000;
+	font-size: 30px;
+	position: absolute;
+	
+	top: 370%;
+	left: 70%;
+	transform: translate(-50%,-50%);
+	
+}
+h15{
+	color: #000;
+	font-size: 20px;
+	position: absolute;
+	
+	top: 400%;
+	left:65%;
+	transform: translate(-50%,-50%);
+	
+}
+h16{
+	color: #000;
+	font-size: 30px;
+	position: absolute;
+	
+	top: 440%;
+	left: 20%;
+	transform: translate(-50%,-50%);
+	
+}
+h17{
+	color: #000;
+	font-size: 20px;
+	position: absolute;
+	
+	top: 460%;
+	left:35%;
+	transform: translate(-50%,-50%);
+	
+}
+h18{
+	color: #000;
+	font-size: 45px;
+	position: absolute;
+	
+	top: 485%;
+	left: 20%;
+	transform: translate(-50%,-50%);
+	
+}
+h19{
+	color: #000;
+	font-size: 30px;
+	position: absolute;
+	
+	top: 500%;
+	left: 70%;
+	transform: translate(-50%,-50%);
+	
+}
+h20{
+	color: #000;
+	font-size: 20px;
+	position: absolute;
+	
+	top: 520%;
+	left:65%;
+	transform: translate(-50%,-50%);
+	
+}
+h21{
+	color: #000;
+	font-size: 40px;
+	position: absolute;
+	
+	top: 550%;
+	left:20%;
+	transform: translate(-50%,-50%);
+	
+}
+h22{
+	color: #000;
+	font-size: 20px;
+	position: absolute;
+	
+	top: 570%;
+	left:35%;
+	transform: translate(-50%,-50%);
+	
+}
+h23{
+	color: #000;
+	font-size: 40px;
+	position: absolute;
+	
+	top: 610%;
+	left:70%;
+	transform: translate(-50%,-50%);
+	
+}
+h24{
+	color: #000;
+	font-size: 20px;
+	position: absolute;
+	
+	top: 630%;
+	left:70%;
+	transform: translate(-50%,-50%);
+	
+}
+h25{
+	color: #000;
+	font-size: 60px;
+	position: absolute;
+	
+	top: 660%;
+	left:20%;
+	transform: translate(-50%,-50%);
+	
+}
+h26{
+	color: #000;
+	font-size: 30px;
+	position: absolute;
+	
+	top: 670%;
+	left:20%;
+	transform: translate(-50%,-50%);
+	
+}
+h27{
+	color: #000;
+	font-size: 25px;
+	position: absolute;
+	
+	top: 695%;
+	left:36%;
+	transform: translate(-50%,-50%);
+	
+}
+h28{
+	color: #000;
+	font-size: 35px;
+	position: absolute;
+	
+	top: 750%;
+	left:65%;
+	transform: translate(-50%,-50%);
+	
+}
+h29{
+	color: #000;
+	font-size: 25px;
+	position: absolute;
+	
+	top: 790%;
+	left:65%;
+	transform: translate(-50%,-50%);
+	
+}
+h30{
+	color: #000;
+	font-size: 40px;
+	position: absolute;
+	
+	top: 840%;
+	left:20%;
+	transform: translate(-50%,-50%);
+	
+}
+h31{
+	color: #000;
+	font-size: 20px;
+	position: absolute;
+	
+	top: 860%;
+	left:36%;
+	transform: translate(-50%,-50%);
+	
+}
+h32{
+	color: #000;
+	font-size: 45px;
+	position: absolute;
+	
+	top: 900%;
+	left:20%;
+	transform: translate(-50%,-50%);
+	
+}
+h33{
+	color: #000;
+	font-size: 35px;
+	position: absolute;
+	
+	top: 915%;
+	left:20%;
+	transform: translate(-50%,-50%);
+	
+}
+h34{
+	color: #000;
+	font-size: 25px;
+	position: absolute;
+	
+	top: 940%;
+	left:40%;
+	transform: translate(-50%,-50%);
+	
+}
+h35{
+	color: #000;
+	font-size: 45px;
+	position: absolute;
+	
+	top: 980%;
+	left:45%;
+	transform: translate(-50%,-50%);
+	
+}
+h36{
+	color: #000;
+	font-size: 25px;
+	position: absolute;
+	
+	top: 1015%;
+	left: 45%;
+	transform: translate(-50%,-50%);
+	
+}
+h37{
+	color: #000;
+	font-size: 45px;
+	position: absolute;
+	
+	top: 1100%;
+	left: 45%;
+	transform: translate(-50%,-50%);
+	
+}
+h38{
+	color: #000;
+	font-size: 25px;
+	position: absolute;
+	
+	top: 1120%;
+	left: 45%;
+	transform: translate(-50%,-50%);
+	
+}
+h39{
+	color: #000;
+	font-size: 40px;
+	position: absolute;
+	
+	top: 1200%;
+	left: 45%;
+	transform: translate(-50%,-50%);
+	
+}
+h40{
+	color: #000;
+	font-size: 30px;
+	position: absolute;
+	
+	top: 1210%;
+	left: 45%;
+	transform: translate(-50%,-50%);
+	
+}
+.button
+{
+	position: absolute;
+	
+	top: 20%;
+	left: 35%;
+	transform: translate(-50%,-50%);
+}
+.btn{
+
+border: 10px #fff;
+
+padding: 10px 10px;
+color: #fff;
+text-decoration: none;
+border: transparent;
+transition: 0.6s ease;
+
+}
+
+	ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+
+}
+ul li a:hover{
+	background-color: #fff;
+	top: 80%;
+	left: 20%;
+	transform: translate(-50%,-50%);
+	color: #000;
+}
+.button
+{
+	position: absolute;
+	top:20%;
+	left: 20%;
+	transform: translate(-50%,-50%);
+}
+.btn{
+
+border: 1px solid #fff;
+padding: 10px 10px;
+color: #fff;
+text-decoration: none;
+transition: 0.6s ease;
+}
+.btn:hover{
+	background-color: #fff;
+	color: #000;
+}
+.active.btn a{
+	
+	background-color: #fff;
+	color: #000;
+}
+.calungate img{
+	float: center;
+	position: absolute;
+	top: 55%;
+	left: 2%;
+	width: 350px;
+	height: auto;
+}
+.anjuna img{
+	float: center;
+	position: absolute;
+	top: 115%;
+	left: 70%;
+	width: 350px;
+	height: auto;
+}
+.palolem
+img{
+	float: center;
+	position: absolute;
+	top: 190%;
+	left: 5%;
+	width: 350px;
+	height: auto;
+}
+.galgibaga img{
+	float: center;
+	position: absolute;
+	top: 260%;
+	left: 70%;
+	width: 350px;
+	height: auto;
+}
+
+.basilica img{
+	float: center;
+	position: absolute;
+	top: 320%;
+	left: 70%;
+	width: 350px;
+	height: auto;
+}
+.mal
+img{
+	float: center;
+	position: absolute;
+	top: 379%;
+	left: 10%;
+	width: 350px;
+	height: auto;
+}
+.diogo img{
+	float: center;
+	position: absolute;
+	top: 440%;
+	left: 70%;
+	width: 350px;
+	height: auto;
+}
+.Sinquerim img{
+	float: center;
+	position: absolute;
+	top: 500%;
+	left: 9%;
+	width: 350px;
+	height: auto;
+}
+.chapora img{
+	float: center;
+	position: absolute;
+	top: 550%;
+	left: 70%;
+	width: 350px;
+	height: auto;
+}
+.betul img{
+	float: center;
+	position: absolute;
+	top: 615%;
+	left: 10%;
+	width: 350px;
+	height: auto;
+}
+.fish 
+img{
+	float: center;
+	position: absolute;
+	top: 670%;
+	left: 70%;
+	width: 350px;
+	height: auto;
+}
+   
+.pork img{
+	float: center;
+	position: absolute;
+	top: 770%;
+	left: 10%;
+	width: 350px;
+	height: auto;
+}
+.patoleo img{
+	float: center;
+	position: absolute;
+	top: 840%;
+	left: 70%;
+	width: 350px;
+	height: auto;
+}
+.konkani img{
+	float: center;
+	position: absolute;
+	top: 920%;
+	left: 70%;
+	width: 350px;
+	height: auto;
+}
+.culgoa  img{
+	float: center;
+	position: absolute;
+	top: 1050%;
+	left: 33%;
+	width: 400px;
+	height: auto;
+}
+.timegoa img{
+	float: center;
+	position: absolute;
+	top: 1140%;
+	left: 20%;
+	width: 800px;
+	height: auto;
+}

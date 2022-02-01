@@ -1,0 +1,656 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: century Gothic;
+}
+
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url(../telangana.jpg); 
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+ul{
+	float: right;
+	list-style-type: none;
+margin-top: 25px;
+
+
+}
+ul li{
+	display: inline-block;
+
+}
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+
+}
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+ul{
+	float: right;
+	list-style-type: none;
+margin-top: 25px;
+
+
+}
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+.logo img{
+	float: left;
+	width: 150px;
+	height: auto;
+
+}
+.main{
+	max-width: 1200px;
+	
+}
+.title{
+	position: absolute;
+	top: 15%;
+	left: 45%;
+	transform: translate(-50%,-50%);
+}
+.title h1{
+	color: #fff;
+	font-size: 45px;
+	position: absolute;
+	top: 4%;
+	left: 45%;
+
+
+}
+h2{
+	color: #fff;
+	font-size: 45px;
+	position: absolute;
+	
+	top: 35%;
+	left: 10%;
+	transform: translate(-50%,-50%);
+	
+}
+h3{
+	color: #fff;
+	font-size: 40px;
+	position: absolute;
+	
+	top: 45%;
+	left: 59%;
+	transform: translate(-50%,-50%);
+	
+}
+
+
+h4{
+	color: #fff;
+	font-size: 20px;
+	position: absolute;
+	
+	top: 75%;
+	left:65%;
+	transform: translate(-50%,-50%);
+	
+}
+
+
+h5{
+	color: #000;
+	font-size: 30px;
+	position: absolute;
+	
+	top: 115%;
+	left: 25%;
+	transform: translate(-50%,-50%);
+	
+}
+h6{
+	color: #000;
+	font-size: 20px;
+	position: absolute;
+	
+	top: 140%;
+	left: 35%;
+	transform: translate(-50%,-50%);
+	
+}
+h7{
+	color: #000;
+	font-size: 40px;
+	position: absolute;
+	
+	top: 180%;
+	left: 60%;
+	transform: translate(-50%,-50%);
+	
+}
+h8{
+	color: #000;
+	font-size: 25px;
+	position: absolute;
+	
+	top: 220%;
+	left: 60%;
+	transform: translate(-50%,-50%);
+	
+}
+h9{
+	color: #000;
+	font-size: 30px;
+	position: absolute;
+	
+	top: 265%;
+	left: 20%;
+	transform: translate(-50%,-50%);
+	
+}
+h10{
+	color: #000;
+	font-size: 25px;
+	position: absolute;
+	
+	top: 285%;
+	left:35%;
+	transform: translate(-50%,-50%);
+	
+}
+h11{
+	color: #000;
+	font-size: 45px;
+	position: absolute;
+	
+	top: 310%;
+	left: 20%;
+	transform: translate(-50%,-50%);
+	
+}
+h12{
+	color: #000;
+	font-size: 35px;
+	position: absolute;
+	
+	top: 325%;
+	left: 20%;
+	transform: translate(-50%,-50%);
+	
+}
+h13{
+	color: #000;
+	font-size: 20px;
+	position: absolute;
+	
+	top: 340%;
+	left:35%;
+	transform: translate(-50%,-50%);
+	
+}
+h14{
+	color: #000;
+	font-size: 40px;
+	position: absolute;
+	
+	top: 370%;
+	left: 65%;
+	transform: translate(-50%,-50%);
+	
+}
+h15{
+	color: #000;
+	font-size: 20px;
+	position: absolute;
+	
+	top: 400%;
+	left:65%;
+	transform: translate(-50%,-50%);
+	
+}
+h16{
+	color: #000;
+	font-size: 40px;
+	position: absolute;
+	
+	top: 440%;
+	left: 30%;
+	transform: translate(-50%,-50%);
+	
+}
+h17{
+	color: #000;
+	font-size: 20px;
+	position: absolute;
+	
+	top: 460%;
+	left:35%;
+	transform: translate(-50%,-50%);
+	
+}
+
+h19{
+	color: #000;
+	font-size: 40px;
+	position: absolute;
+	
+	top: 490%;
+	left: 55%;
+	transform: translate(-50%,-50%);
+	
+}
+h20{
+	color: #000;
+	font-size: 20px;
+	position: absolute;
+	
+	top: 520%;
+	left:60%;
+	transform: translate(-50%,-50%);
+	
+}
+h21{
+	color: #000;
+	font-size: 50px;
+	position: absolute;
+	
+	top: 560%;
+	left:20%;
+	transform: translate(-50%,-50%);
+	
+}
+h22{
+	color: #000;
+	font-size: 30px;
+	position: absolute;
+	
+	top: 575%;
+	left:20%;
+	transform: translate(-50%,-50%);
+	
+}
+h23{
+	color: #000;
+	font-size: 20px;
+	position: absolute;
+	
+	top: 585%;
+	left:35%;
+	transform: translate(-50%,-50%);
+	
+}
+h18{
+	color: #000;
+	font-size: 30px;
+	position: absolute;
+	
+	top: 615%;
+	left:68%;
+	transform: translate(-50%,-50%);
+	
+}
+h24{
+	color: #000;
+	font-size: 20px;
+	position: absolute;
+	
+	top: 640%;
+	left:70%;
+	transform: translate(-50%,-50%);
+	
+}
+h25{
+	color: #000;
+	font-size: 40px;
+	position: absolute;
+	
+	top: 680%;
+	left:20%;
+	transform: translate(-50%,-50%);
+	
+}
+h26{
+	color: #000;
+	font-size: 50px;
+	position: absolute;
+	
+	top: 740%;
+	left:20%;
+	transform: translate(-50%,-50%);
+	
+}
+h27{
+	color: #000;
+	font-size: 25px;
+	position: absolute;
+	
+	top: 705%;
+	left:36%;
+	transform: translate(-50%,-50%);
+	
+}
+h28{
+	color: #000;
+	font-size: 35px;
+	position: absolute;
+	
+	top: 755%;
+	left:65%;
+	transform: translate(-50%,-50%);
+	
+}
+h29{
+	color: #000;
+	font-size: 25px;
+	position: absolute;
+	
+	top: 795%;
+	left:65%;
+	transform: translate(-50%,-50%);
+	
+}
+h30{
+	color: #000;
+	font-size: 40px;
+	position: absolute;
+	
+	top: 840%;
+	left:20%;
+	transform: translate(-50%,-50%);
+	
+}
+h31{
+	color: #000;
+	font-size: 20px;
+	position: absolute;
+	
+	top: 860%;
+	left:36%;
+	transform: translate(-50%,-50%);
+	
+}
+h32{
+	color: #000;
+	font-size: 45px;
+	position: absolute;
+	
+	top: 900%;
+	left:20%;
+	transform: translate(-50%,-50%);
+	
+}
+h33{
+	color: #000;
+	font-size: 35px;
+	position: absolute;
+	
+	top: 915%;
+	left:20%;
+	transform: translate(-50%,-50%);
+	
+}
+h34{
+	color: #000;
+	font-size: 25px;
+	position: absolute;
+	
+	top: 940%;
+	left:40%;
+	transform: translate(-50%,-50%);
+	
+}
+h35{
+	color: #000;
+	font-size: 35px;
+	position: absolute;
+	
+	top: 980%;
+	left:40%;
+	transform: translate(-50%,-50%);
+	
+}
+h36{
+	color: #000;
+	font-size: 25px;
+	position: absolute;
+	
+	top: 1025%;
+	left: 45%;
+	transform: translate(-50%,-50%);
+	
+}
+h37{
+	color: #000;
+	font-size: 40px;
+	position: absolute;
+	
+	top: 1130%;
+	left: 45%;
+	transform: translate(-50%,-50%);
+	
+}
+h38{
+	color: #000;
+	font-size: 25px;
+	position: absolute;
+	
+	top: 1150%;
+	left: 45%;
+	transform: translate(-50%,-50%);
+	
+}
+h39{
+	color: #000;
+	font-size: 40px;
+	position: absolute;
+	
+	top: 1200%;
+	left: 45%;
+	transform: translate(-50%,-50%);
+	
+}
+h40{
+	color: #000;
+	font-size: 30px;
+	position: absolute;
+	
+	top: 1210%;
+	left: 45%;
+	transform: translate(-50%,-50%);
+	
+}
+.button
+{
+	position: absolute;
+	
+	top: 20%;
+	left: 35%;
+	transform: translate(-50%,-50%);
+}
+.btn{
+
+border: 10px #fff;
+
+padding: 10px 10px;
+color: #fff;
+text-decoration: none;
+border: transparent;
+transition: 0.6s ease;
+
+}
+
+	ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+
+}
+ul li a:hover{
+	background-color: #fff;
+	top: 80%;
+	left: 20%;
+	transform: translate(-50%,-50%);
+	color: #000;
+}
+.button
+{
+	position: absolute;
+	top:20%;
+	left: 20%;
+	transform: translate(-50%,-50%);
+}
+.btn{
+
+border: 1px solid #fff;
+padding: 10px 10px;
+color: #fff;
+text-decoration: none;
+transition: 0.6s ease;
+}
+.btn:hover{
+	background-color: #fff;
+	color: #000;
+}
+.active.btn a{
+	
+	background-color: #fff;
+	color: #000;
+}
+.golconda img{
+	float: center;
+	position: absolute;
+	top: 55%;
+	left: 2%;
+	width: 500px;
+	height: auto;
+}
+.warangal img{
+	float: center;
+	position: absolute;
+	top: 125%;
+	left: 70%;
+	width: 400px;
+	height: auto;
+}
+.medak
+img{
+	float: center;
+	position: absolute;
+	top: 190%;
+	left: 5%;
+	width: 350px;
+	height: auto;
+}
+.khammam img{
+	float: center;
+	position: absolute;
+	top: 265%;
+	left: 70%;
+	width: 350px;
+	height: auto;
+}
+
+.yadgiri img{
+	float: center;
+	position: absolute;
+	top: 320%;
+	left: 70%;
+	width: 350px;
+	height: auto;
+}
+.birla
+img{
+	float: center;
+	position: absolute;
+	top: 379%;
+	left: 10%;
+	width: 350px;
+	height: auto;
+}
+.thousand img{
+	float: center;
+	position: absolute;
+	top: 440%;
+	left: 70%;
+	width: 350px;
+	height: auto;
+}
+.ramappa img{
+	float: center;
+	position: absolute;
+	top: 500%;
+	left: 9%;
+	width: 350px;
+	height: auto;
+}
+.birmus img{
+	float: center;
+	position: absolute;
+	top: 570%;
+	left: 70%;
+	width: 350px;
+	height: auto;
+}
+.salar img{
+	float: center;
+	position: absolute;
+	top: 625%;
+	left: 10%;
+	width: 350px;
+	height: auto;
+}
+.alampur 
+img{
+	float: center;
+	position: absolute;
+	top: 690%;
+	left: 70%;
+	width: 350px;
+	height: auto;
+}
+   
+.sarva img{
+	float: center;
+	position: absolute;
+	top: 775%;
+	left: 10%;
+	width: 350px;
+	height: auto;
+}
+.biryani img{
+	float: center;
+	position: absolute;
+	top: 840%;
+	left: 70%;
+	width: 350px;
+	height: auto;
+}
+.telugu img{
+	float: center;
+	position: absolute;
+	top: 920%;
+	left: 70%;
+	width: 350px;
+	height: auto;
+}
+.bathukamma  img{
+	float: center;
+	position: absolute;
+	top: 1070%;
+	left: 33%;
+	width: 400px;
+	height: auto;
+}
