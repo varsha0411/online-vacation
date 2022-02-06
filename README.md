@@ -1,16 +1,36 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<title>LOGIN</title>
-	<link rel="stylesheet" type="text/css" href="css/kerela.css">
-	    
+  
+  <title>ONLINE VACATION PLANNER</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
-<div class="logo">
-      <img src="logof.png">
-  </div>
 <body>
-<iframe src="https://script.google.com/macros/s/AKfycbyq-t8JiJ-ERLQARW4jg89ZKrl7MdIYshbzWEaudcO1VFN9aRnaA6tZUA2cG_aMThWmnw/exec" width="100%" height="500px" scrolling="no" style="border: none;"></iframe>
+<header>
+  <div class="main">
+    <div class="logo">
+      <img src="logof.png">
+    </div>
+    <ul>
+      
+      <li class="active"><a href="#">HOME</a></li>
+      
+      <li><a href="explore.html">EXPLORE</a></li>
+      
+      <li><a href="about.html">ABOUT</a></li>
+      <li><a href="contact.html">CONTACT</a></li>
+    </ul>
+  </div>
+  <div class="title">
+    <h1>ONLINE VACATION</h1>
+    <h2>PLANNER</h2>
+  </div>
+  <div class="button">
+    <a href="https://youtu.be/_vkq0T6-Hpk" class="btn">WATCH VIDEO</a>
+    <a href="https://www.mapsofindia.com/south-india-travel.html" class="btn">MAP</a>
 
+  </div>
+</header>
 </body>
-</html>
+
+</html> 
