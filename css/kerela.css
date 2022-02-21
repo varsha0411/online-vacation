@@ -1,4 +1,5 @@
 *{
+	
 	margin: 0;
 	padding: 0;
 	font-family: century Gothic;
@@ -91,7 +92,7 @@ h3{
 	font-size: 40px;
 	position: absolute;
 	
-	top: 55%;
+	top: 53%;
 	left: 65%;
 	transform: translate(-50%,-50%);
 	
@@ -451,6 +452,26 @@ h38{
 	transform: translate(-50%,-50%);
 	
 }
+h39{
+	color: #000;
+	font-size: 40px;
+	position: absolute;
+	
+	top: 1200%;
+	left: 45%;
+	transform: translate(-50%,-50%);
+	
+}
+h40{
+	color: #000;
+	font-size: 30px;
+	position: absolute;
+	
+	top: 1210%;
+	left: 45%;
+	transform: translate(-50%,-50%);
+	
+}
 .button
 {
 	position: absolute;
@@ -510,15 +531,15 @@ transition: 0.6s ease;
 	background-color: #fff;
 	color: #000;
 }
-.udupi img{
+.santa img{
 	float: center;
 	position: absolute;
-	top: 55%;
+	top: 62%;
 	left: 2%;
-	width: 350px;
+	width: 385px;
 	height: auto;
 }
-.vidya img{
+.francis img{
 	float: center;
 	position: absolute;
 	top: 120%;
@@ -526,16 +547,16 @@ transition: 0.6s ease;
 	width: 320px;
 	height: auto;
 }
-.murud
+.george
 img{
 	float: center;
 	position: absolute;
-	top: 205%;
+	top: 210%;
 	left: 5%;
-	width: 350px;
+	width: 370px;
 	height: auto;
 }
-.vittala img{
+.Arthunkal img{
 	float: center;
 	position: absolute;
 	top: 263%;
@@ -544,7 +565,7 @@ img{
 	height: auto;
 }
 
-.coorg img{
+.athi img{
 	float: center;
 	position: absolute;
 	top: 332%;
@@ -552,24 +573,24 @@ img{
 	width: 330px;
 	height: auto;
 }
-.Chikmagalur
+.meen
 img{
 	float: center;
 	position: absolute;
-	top: 400%;
+	top: 395%;
 	left: 9%;
 	width: 420px;
 	height: auto;
 }
-.nandi img{
+.palaruvi img{
 	float: center;
 	position: absolute;
-	top: 475%;
+	top: 468%;
 	left: 70%;
 	width: 400px;
 	height: auto;
 }
-.br img{
+.power img{
 	float: center;
 	position: absolute;
 	top: 530%;
@@ -577,15 +598,15 @@ img{
 	width: 450px;
 	height: auto;
 }
-.tipu img{
+.alle img{
 	float: center;
 	position: absolute;
-	top: 608%;
+	top: 610%;
 	left: 70%;
-	width: 350px;
+	width: 385px;
 	height: auto;
 }
-.mysore img{
+.swim img{
 	float: center;
 	position: absolute;
 	top: 662%;
@@ -593,7 +614,7 @@ img{
 	width: 450px;
 	height: auto;
 }
-.bang
+.munnar
 img{
 	float: center;
 	position: absolute;
@@ -603,7 +624,7 @@ img{
 	height: auto;
 }
    
-.kori img{
+.idiyappam img{
 	float: center;
 	position: absolute;
 	top: 780%;
@@ -611,7 +632,7 @@ img{
 	width: 386px;
 	height: auto;
 }
-.neer img{
+.erissery img{
 	float: center;
 	position: absolute;
 	top: 840%;
@@ -619,7 +640,7 @@ img{
 	width: 350px;
 	height: auto;
 }
-.kannada img{
+.Malayalam img{
 	float: center;
 	position: absolute;
 	top: 940%;
@@ -627,7 +648,7 @@ img{
 	width: 350px;
 	height: auto;
 }
-.karnacul img{
+.kathak img{
 	float: center;
 	position: absolute;
 	top: 1073%;
